@@ -14,7 +14,7 @@
 
 
 class Game:
-    """This class allows us to play de game of mus.
+    """This class allows us to play the game of mus.
 
     Args:
 
